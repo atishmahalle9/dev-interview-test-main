@@ -75,3 +75,8 @@ yarn dev
 Once running, the application should restart when changes to the **JavaScript** are detected.
 
 You can verify that the app has started and is listening to requests by invoking the http://localhost:30010/ping endpoint in browser.
+
+Routes Created :
+
+http://localhost:3000/averagePrices
+http://localhost:3000/prices
