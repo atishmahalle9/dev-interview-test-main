@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "lib",
+        "baseUrl": ".",
+        "target": "es2018",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "declaration": true,
+        "declarationMap": true,
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "lib": [ "dom", "es2018", "esnext.asynciterable" ],
+        "typeRoots": [
+            "./@types"
+        ],
+        "newLine": "LF"
+    }
+}
